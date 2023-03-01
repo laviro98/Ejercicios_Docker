@@ -1,5 +1,7 @@
 # PRÁCTICA 1
 
+# Ejercicio 1
+
 **Ejecuta la imagen "hello-world"**
 
 ```sudo docker run hello-world```
