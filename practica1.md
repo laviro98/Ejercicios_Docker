@@ -1,4 +1,4 @@
-#Ejercicio 1
+# PRÁCTICA 1
 
 **Ejecuta la imagen "hello-world"**
 
