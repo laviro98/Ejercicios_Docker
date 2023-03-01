@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/114391559/222119587-f5d2969a-eaff-4c64-8e9c-d941ce9d4d65.png)
 
-#Ejercicio 2
+# Ejercicio 2
 
 **Muestra las imágenes Docker instaladas**
 
@@ -14,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/114391559/222120295-31a722e8-aaf3-46a6-9274-b0dd63e4e679.png)
 
-#Ejercicio3
+# Ejercicio3
 
 ```sudo docker ps```
 
