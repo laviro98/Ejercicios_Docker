@@ -22,5 +22,5 @@
 
 Para ver incluso los que no están en ejecución:
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/114391559/222121077-110aa9c3-78f4-4a3e-934a-b3cf745b87e3.png)
 
