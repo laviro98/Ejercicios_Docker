@@ -16,6 +16,8 @@
 
 # Ejercicio3
 
+**Muestra los contenedores Docker**
+
 ```sudo docker ps```
 
 ![image](https://user-images.githubusercontent.com/114391559/222120389-e25291c2-5028-493c-8a13-78ce8806c1e3.png)
