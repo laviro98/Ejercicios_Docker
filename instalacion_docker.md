@@ -37,6 +37,17 @@ Instalamos Docker y comprobamos si se ha instalado bien:
 
 **Debemos tener nuestro Docker con Dockerhub:**
 
+Nos creamos una cuenta en 'https://hub.docker.com/'
+
+Luego, desde nuestra temrinal, ejecutamos el comando ```sudo docker login```, e iniciamos sesión con nuestra cuenta:
+
+![image](https://user-images.githubusercontent.com/114391559/222118056-13942a06-6839-45e5-866a-2ad5d888b12c.png)
+
+
+
+
+
+
 
 
 
