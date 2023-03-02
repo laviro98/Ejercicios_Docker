@@ -50,27 +50,3 @@ docker build -t josedom24/ejemplo2:v1 .
 ![image](https://user-images.githubusercontent.com/114391559/222527285-ababb931-d000-4fd9-a508-287f0e2f0c70.png)
 
 ![image](https://user-images.githubusercontent.com/114391559/222527755-681d00b6-41c7-4f56-b7eb-7ae881241cb1.png)
-
-
-
-
-# Ejercicio 3
-
-**Ejemplo 3: Construcción de imágenes con una una aplicación Python**
-
-*Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo5/ejemplo3.md*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
