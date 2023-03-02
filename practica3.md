@@ -67,23 +67,35 @@
 
 # Ejercicio 11
 
-****
+**Borra el contenedor "myhello1"**
 
+```sudo docker rm myhello1```
 
+```sudo docker ps -a```
+
+![image](https://user-images.githubusercontent.com/114391559/222419236-3450beb1-fb46-4341-91d0-30c9c5e6817a.png)
 
 # Ejercicio 12
 
-****
+**Muestra los contenedores que se están ejecutando**
 
+```sudo docker ps```
 
-
-
+![image](https://user-images.githubusercontent.com/114391559/222419353-40c162af-3bf3-47b6-91ff-d52f26c5204c.png)
 
 # Ejercicio 13
 
-****
+**Borra todos los contenedores**
 
+```sudo docker rm myhello2```
+```sudo docker rm myhello3```
 
+![image](https://user-images.githubusercontent.com/114391559/222419486-7206c432-34d0-478e-9d31-765165ed9fe3.png)
 
+```sudo docker rm mi_contenedor_ubuntu```
 
+![image](https://user-images.githubusercontent.com/114391559/222419610-0497f5ae-4c0a-4112-9490-cc97aad9e4a8.png)
 
+```sudo docker ps -a```
+
+![image](https://user-images.githubusercontent.com/114391559/222419631-ff6bd6d7-836b-4eab-b886-e7933c267fbf.png)
