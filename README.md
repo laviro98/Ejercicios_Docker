@@ -17,3 +17,5 @@ Docker es un software de código abierto utilizado para desplegar aplicaciones d
 ## [Práctica 4](practica4.md)
 
 ## [Práctica 5](practica5.md)
+
+## [Práctica 6](practica6.md)
