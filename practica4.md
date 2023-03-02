@@ -52,7 +52,8 @@ _Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo3/wordpre
 
 ```sudo docker network create red_wp```
 
-```sudo docker run -d --name servidor_mysql \
+```
+sudo docker run -d --name servidor_mysql \
                 --network red_wp \
                 -v /opt/mysql_wp:/var/lib/mysql \
                 -e MYSQL_DATABASE=bd_wp \
@@ -64,7 +65,8 @@ _Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo3/wordpre
 
 ![image](https://user-images.githubusercontent.com/114391559/222421329-c06daa34-8125-464c-b337-7ba96193fdc6.png)
 
-```sudo docker run -d --name servidor_wp \
+```
+sudo docker run -d --name servidor_wp \
                 --network red_wp \
                 -v /opt/wordpress:/var/www/html/wp-content \
                 -e WORDPRESS_DB_HOST=servidor_mysql \
