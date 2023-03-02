@@ -4,7 +4,7 @@
 
 **Ejemplo 1: Despliegue de la aplicación Guestbook**
 
-_Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo4/guestbook.md-
+_Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo4/guestbook.md_
 
 ```sudo nano docker-compose.yml```
 
