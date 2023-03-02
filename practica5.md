@@ -4,7 +4,7 @@
 
 **Ejemplo 1: Despliegue de la aplicación Guestbook**
 
-_Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo4/guestbook.md_
+*Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo4/guestbook.md*
 
 ```sudo nano docker-compose.yml```
 
@@ -43,7 +43,7 @@ services:
 
 **Ejemplo 2: Despliegue de la aplicación Temperaturas**
 
-_Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo4/temperaturas.md-
+*Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo4/temperaturas.md*
 
 ```sudo nano docker-compose.yml```
 
@@ -76,7 +76,7 @@ services:
 
 **Ejemplo 3: Despliegue de Wordpress + mariadb**
 
-_Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo4/wordpress.md-
+*Enlace: https://github.com/josedom24/curso_docker_ies/blob/main/modulo4/wordpress.md*
 
 ```sudo nano docker-compose.yml```
 
